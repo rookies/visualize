@@ -1,0 +1,8 @@
+[package]
+name = "visualize"
+version = "0.1.0"
+authors = ["Robert Knauer <robert@capsaicin-dev.de>"]
+
+[dependencies]
+num = "*"
+rustfft = "*"
